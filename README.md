@@ -1,7 +1,8 @@
 # Java Lab 2
 
-Name: Zakwan Bhatti  
-Course: Programming Fundamentals  
-Lab: Java Lab 2  
+Name: Zakwan Bhatti
 
-This repository contains Java programs for lab 2.
+## How to Run the Program
+1. Open the project in IntelliJ
+2. Run the Java file
+3. View the output in console
